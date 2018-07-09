@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimplifiedRP</string>
+    <string name="navigate">跳转</string>
+    <string name="real">I\'m real starting activity!</string>
+</resources>
